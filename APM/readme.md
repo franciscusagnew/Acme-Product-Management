@@ -1,8 +1,23 @@
-1) Open a command prompt in the project's root directory (APM)
+# Acme Product Management Application
 
-2) Type: `npm install`
-    This installs the dependencies as defined in the package.json file.
-    
-3) Type: `npm start`
-    This launches the TypeScript compiler (tsc) to compile the application and wait for changes. 
-    It also starts the lite-server and launches the browser to run the application.
+Demo Angular 2 application to manage a list of products.
+
+## Built With
+
+* [Node.js](https://nodejs.org/en/) - The JavaScript runtime
+* [Angular 2](https://angular.io/) - The JavaScript framework for web applications
+* [Typescript](https://www.typescriptlang.org/) - Typed superset of JavaScript that compiles into plain JavaScript
+* [Bootstrap](http://getbootstrap.com/) - HTML, CSS, and JS framework
+
+## Authors
+
+* **Deborah Kurata** - *Initial work* - [Pluralsight](https://app.pluralsight.com/library/courses/angular-2-getting-started-update/)
+(https://github.com/DeborahK/Angular2-GettingStarted)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Thanks to Pluralsight Author - Deborah Kurata (https://app.pluralsight.com/profile/author/deborah-kurata)
