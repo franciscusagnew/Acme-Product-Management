@@ -11,8 +11,9 @@ Demo Angular 2 application to manage a list of products.
 
 ## Authors
 
-* **Deborah Kurata** - *Initial work* - [Pluralsight](https://app.pluralsight.com/library/courses/angular-2-getting-started-update/)
-(https://github.com/DeborahK/Angular2-GettingStarted)
+* **Deborah Kurata** - *Initial work* - 
+[Pluralsight](https://app.pluralsight.com/library/courses/angular-2-getting-started-update/) &
+[Github](https://github.com/DeborahK/Angular2-GettingStarted)
 
 ## License
 
@@ -20,4 +21,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to Pluralsight Author - Deborah Kurata (https://app.pluralsight.com/profile/author/deborah-kurata)
+* Thanks to Pluralsight Author - [Deborah Kurata](https://app.pluralsight.com/profile/author/deborah-kurata)
