@@ -1,9 +1,11 @@
 import { Component } from'@angular/core';
-import { IProduct } from'./product'
+import { IProduct } from'./products'
 
 @Component({
     selector: 'pm-products',
-    templateUrl: 'app/products/product-list.component.html'
+    templateUrl: 'app/products/product-list.component.html',
+    styleUrls: ['app/products/product-list.component.css']
+
 })
 
 export class ProductListComponent {
